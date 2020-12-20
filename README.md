@@ -1,6 +1,9 @@
 # Railway-Booking
 A web application for a railroad company made with HTML, CSS, JavaScript, mySQL, and Java.
 
+Database is made from Amazon's RDS.
+Application ran on Amazon's EC2, that had tomcat installed. 
+
 Members: Brian Albert, Alessandro De Marchi-Blumstein, Nicole De Oliveira, Alden Lu
 
 Contributions:
