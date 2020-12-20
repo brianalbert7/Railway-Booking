@@ -6,7 +6,7 @@ Members: Brian Albert, Alessandro De Marchi-Blumstein, Nicole De Oliveira, Alden
 Contributions:
 Account Functionality: Brian
 Browsing and search functionality: 
-	Search for trian schedules by origin, destination, date of travel: Brian
+	Search for train schedules by origin, destination, date of travel: Brian
 	browse the resulting schedules: Brian
 		See all the stops: Alessandro
 	Sort by different criteria: Brian
