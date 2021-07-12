@@ -8,6 +8,7 @@ Members: Brian Albert, Alessandro De Marchi-Blumstein, Nicole De Oliveira, Alden
 
 Contributions:\
 Account Functionality: Brian\
+\
 Browsing and search functionality: \
 	Search for train schedules by origin, destination, date of travel: Brian\
 	browse the resulting schedules: Brian\
